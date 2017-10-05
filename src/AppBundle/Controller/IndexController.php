@@ -14,7 +14,7 @@ class IndexController extends Controller
     public function indexAction(Request $request)
     {
 
-        if ($request->isMethod(Request::METHOD_GET)) {
+        if ($request->isMethod(Request::METHOD_GET) && $request->query->has('id')) {
             $id   = $request->query->get('id');
 
             $url  = "https://test.oppwa.com/v1/checkouts/{$id}/payment";
@@ -32,7 +32,6 @@ class IndexController extends Controller
                 return curl_error($ch);
             }
             curl_close($ch);
-
 
             dump(json_decode($responseData)); exit;
         }
