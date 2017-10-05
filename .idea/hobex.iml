@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/behat/transliterator" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/besimple/i18n-routing-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/annotations" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/cache" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/collections" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/common" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/dbal" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/doctrine-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/doctrine-cache-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/doctrine-migrations-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/lexer" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/migrations" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/orm" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/friendsofsymfony/jsrouting-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/friendsofsymfony/user-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/incenteev/composer-parameter-handler" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/jdorn/sql-formatter" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/jms/i18n-routing-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/knplabs/doctrine-behaviors" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/kriswallsmith/assetic" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/ocramius/proxy-manager" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/oneup/uploader-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/paragonie/random_compat" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/psr/cache" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/sensio/distribution-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/sensio/framework-extra-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/sensio/generator-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/sensiolabs/security-checker" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/assetic-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/monolog-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/phpunit-bridge" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/polyfill-apcu" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/polyfill-intl-icu" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/polyfill-php56" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/polyfill-php70" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/polyfill-util" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/swiftmailer-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/symfony" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/twig/extensions" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/twig/twig" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/willdurand/jsonp-callback-validator" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/zendframework/zend-code" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/zendframework/zend-eventmanager" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/behat/transliterator" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/besimple/i18n-routing-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/annotations" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/cache" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/collections" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/common" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/dbal" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/doctrine-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/doctrine-cache-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/doctrine-migrations-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/lexer" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/migrations" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/doctrine/orm" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/friendsofsymfony/jsrouting-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/friendsofsymfony/user-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/incenteev/composer-parameter-handler" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/jdorn/sql-formatter" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/jms/i18n-routing-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/knplabs/doctrine-behaviors" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/kriswallsmith/assetic" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/ocramius/proxy-manager" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/oneup/uploader-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/paragonie/random_compat" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/psr/cache" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/sensio/distribution-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/sensio/framework-extra-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/sensio/generator-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/sensiolabs/security-checker" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/assetic-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/monolog-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/phpunit-bridge" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/polyfill-apcu" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/polyfill-intl-icu" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/polyfill-php56" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/polyfill-php70" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/polyfill-util" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/swiftmailer-bundle" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/symfony/symfony" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/twig/extensions" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/twig/twig" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/willdurand/jsonp-callback-validator" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/zendframework/zend-code" />
+          <root url="file://$MODULE_DIR$/../place-corner/vendor/zendframework/zend-eventmanager" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/../place-corner/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
+          <root url="phar://$MODULE_DIR$/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+          <root url="phar://$MODULE_DIR$/../place-corner/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+          <root url="phar://$MODULE_DIR$/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/../place-corner/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
+          <root url="phar://$MODULE_DIR$/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+          <root url="phar://$MODULE_DIR$/../place-corner/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+          <root url="phar://$MODULE_DIR$/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
